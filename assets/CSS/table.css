@@ -1,0 +1,67 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.table {
+  width: 60%;
+  text-align: center;
+}
+
+.head {
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.category {
+  padding-top: 10px;
+}
+
+.price {
+  padding-top: 20px;
+  font-size: 30px;
+}
+
+.term {
+  padding: 5px 0;
+}
+
+.th-fon-1 {
+  font-size: 24px;
+  vertical-align: middle;
+  background-color: #7887ab;
+}
+
+.th-fon-2 {
+  background-color: #4f628e;
+}
+
+.th-fon-3 {
+  background-color: #2e4172;
+}
+
+.th-fon-4 {
+  background-color: #162955;
+}
+
+.th-fon-5 {
+  background-color: #061539;
+}
+
+.fon-darkgray {
+  background-color: #9994;
+}
+
+.fon-lightgray {
+  background-color: #ccc4;
+}
+
+.cell-padding {
+  padding: 10px 0;
+}
+
+.btn {
+  min-width: 100px;
+}
