@@ -5,7 +5,7 @@
 }
 
 .table {
-  width: 60%;
+  min-width: 60%;
   text-align: center;
   border-radius: 10px;
   overflow: hidden;
