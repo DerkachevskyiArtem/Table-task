@@ -5,7 +5,7 @@
 }
 
 .table {
-  min-width: 60%;
+  min-width: 900px;
   text-align: center;
   border-radius: 10px;
   overflow: hidden;
@@ -18,16 +18,16 @@
 }
 
 .heading {
-  padding-top: 10px;
+  margin-top: 10px;
 }
 
 .price {
-  padding-top: 20px;
+  margin-top: 25px;
   font-size: 30px;
 }
 
 .term {
-  padding: 5px 0;
+  margin: 10px 0;
 }
 
 .th-fon-1 {
@@ -62,7 +62,11 @@
 
 .cell-padding {
   text-align: initial;
-  padding: 15px 0 0 20px;
+  padding-left: 20px;
+}
+
+.tabble-cell {
+  padding: 15px 0 15px 0px;
 }
 
 
@@ -70,6 +74,6 @@
   min-width: 100px;
   background-color: #9994;
   padding: 5px 0;
-  margin: 10px 0;
   border: 1px solid #9b8d8d;
 }
+
